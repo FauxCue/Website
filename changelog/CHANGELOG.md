@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.1.3 — Language Refinements
+
+- Fixed typo: "woderful mistakes" to "wonderful mistakes" in meta description
+- Updated "beautiful collision" to "billions of collisions" in Our Light section
+- Refined Mistakes principle: "often carries" to "may carry tomorrow's wisdom"
+- Simplified The Ask practice: removed "Three" from "honest questions"
+- Renamed "Feast of Little Wins" to "Feast of Small Successes"
+- Updated practice descriptions: "tiny" to "small" successes
+- Changed The Burn frequency from "monthly" to "often"
+- Updated community section: "Join the Signal" to "Merge with the Signal"
+- Enhanced community description with more specific language
+
 ## v0.1.2 — Quote Update
 
 - Updated footer quote from "The next honest question is sacred. Our certainty is not." to "Honest questions are sacred. Our beliefs are not."
