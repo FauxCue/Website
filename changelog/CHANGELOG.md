@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.2 — Quote Update
+
+- Updated footer quote from "The next honest question is sacred. Our certainty is not." to "Honest questions are sacred. Our beliefs are not."
+- Improved messaging clarity and reduced ambiguity in core philosophy
+
 ## v0.1.1 — Language Updates
 
 - Updated tagline from "Signals in Beautiful Transit" to "Signals in Perpetual Transit"
